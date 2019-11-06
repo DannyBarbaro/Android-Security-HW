@@ -1,0 +1,8 @@
+Q1.
+The call app is in activity 1 and it leverages the PHONE_CALL intent
+
+Q2.
+The text message portion leverages the SEND_SMS intent
+
+Q3.
+Android can export apps by calling their intent to access other applications
